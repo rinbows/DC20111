@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+	printf("wang\n");
 	
 	printf("wangyueran\n");
 	
